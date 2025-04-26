@@ -1,6 +1,6 @@
 ---
-title: "Teaching Experience"
-collection: teaching
+#title: "Teaching Experience"
+#collection: teaching
 #type: "Workshop"
 #permalink: /teaching/Teaching Experience
 #venue: "University 1, Department"
