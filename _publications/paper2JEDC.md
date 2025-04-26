@@ -4,11 +4,11 @@ collection: publications
 category: papers
 permalink: /publication/paper2JEDC
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-#date: 2010-10-01
+date: 2021-10-01
 venue: 'Journal of Economic Dynamics and Control'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0165188921001263'
-#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#citation: 'Chen, Zilin, Li Guo, and Jun Tu. "Media Network and Excess Return Comovement." Journal of Economic Dynamics and Control 130 (2021): 104191.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
