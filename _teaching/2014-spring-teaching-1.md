@@ -1,20 +1,16 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Artificial Intelligence & Applied Economics (Undergraduate)
 
-Heading 1
-======
+Asset Pricing Theory (Undergraduate/Graduate)
 
-Heading 2
-======
+Financial Data Processing (Graduate)
 
-Heading 3
-======
+Financial Engineering (Undergraduate)
+
+FinTech (Graduate)
+
+Frontiers in Asset Pricing Literature (Doctoral Seminar)
+
+Securities Investment: Theory and Empirical Analysis (Undergraduate)
+
+
