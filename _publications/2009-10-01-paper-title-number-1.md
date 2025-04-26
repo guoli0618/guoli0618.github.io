@@ -1,9 +1,9 @@
 ---
 title: "Cross-Cryptocurrency Return Predictability"
 collection: publications
-category: manuscripts
+category: papers
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Using data from Binance, we find strong evidence of cross-cryptocurrency return predictability. The lagged returns of other cryptocurrencies serve as significant predictors of focal cryptocurrencies. The results are robust across various methods, including the adaptive LASSO and principal component analysis. Furthermore, a long-short portfolio formed on the past returns of cryptocurrencies can generate a sizable return out-of-sample after accounting for transaction costs. Overall, our findings corroborate cross-cryptocurrency return predictability and are consistent with the spillover effect mechanism, where common shocks among cryptocurrencies coupled with the limited attention of investors lead to slow information diffusion across coins.'
+# excerpt: 'Using data from Binance, we find strong evidence of cross-cryptocurrency return predictability. The lagged returns of other cryptocurrencies serve as significant predictors of focal cryptocurrencies. The results are robust across various methods, including the adaptive LASSO and principal component analysis. Furthermore, a long-short portfolio formed on the past returns of cryptocurrencies can generate a sizable return out-of-sample after accounting for transaction costs. Overall, our findings corroborate cross-cryptocurrency return predictability and are consistent with the spillover effect mechanism, where common shocks among cryptocurrencies coupled with the limited attention of investors lead to slow information diffusion across coins.'
 # date: 2024-04-22
 venue: 'Journal of Economic Dynamics and Control'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
