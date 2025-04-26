@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Li Guo"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Li Guo"
 description              : &description "personal description"
