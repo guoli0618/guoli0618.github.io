@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cheryl Yu WANG"
+title                    : "Li Guo"
 title_separator          : "-"
-name                     : &name "Cheryl Yu WANG"
+name                     : &name "Li Guo"
 description              : &description "personal description"
-url                      : https://cherylyuwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://guoli0618.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cherylyuwang/cherylyuwang.github.io"
+repository               : "guoli0618/guoli0618.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,17 +23,17 @@ repository               : "cherylyuwang/cherylyuwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Cheryl Wang (王钰)"
+  name             : "Li GUO (郭雳)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Finance (Year 4)"
+  bio              : "Associate Professor in Finance"
  # location         : "Shanghai, China"
-  employer         : "Shanghai University of Finance and Economics"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "guo_li@fudan.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -79,8 +79,10 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  papers:
     title: 'Journal Articles'    
+  others:
+    title: 'Other Publications'   
   working:
     title: 'Working Papers'
 
