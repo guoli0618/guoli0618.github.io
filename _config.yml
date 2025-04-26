@@ -22,7 +22,7 @@ repository               : "guoli0618/guoli0618.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo of Guo Li.jpg"
+  avatar           : "assets/Photo of Guo Li.jpg"
   name             : "Li GUO (郭雳)"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in Finance"
