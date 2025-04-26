@@ -1,14 +1,13 @@
 ---
-title: "Security Analysts and Capital Market Anomal"
+title: "Security Analysts and Capital Market Anomalies"
 collection: publications
 category: papers
 permalink: /publication/paper1JFE
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-#date: 2010-10-01
+date: 2020
 venue: 'Journal of Financial Economics'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0304405X20300192'
-#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Guo, Li, Frank Weikai Li, and KC John Wei. "Security analysts and capital market anomalies." Journal of Financial Economics 137.1 (2020): 204-230.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
