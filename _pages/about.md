@@ -13,5 +13,7 @@ Li Guo is an Associate Professor in Finance at School of Economics, Fudan Univer
 Education
 ======
 PhD (Finance), Singapore Management University
+
 MS (Applied Economics), Nanyang Technological University
+
 BS (Finance), Zhejiang University
