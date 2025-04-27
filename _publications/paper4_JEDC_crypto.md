@@ -7,8 +7,8 @@ permalink: /publication/paper4_JEDC_crypto
 date: 2024-04-22
 venue: 'Journal of Economic Dynamics and Control'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0165188924000551'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3974583' #'https://www.sciencedirect.com/science/article/abs/pii/S0165188924000551'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-#citation: 'Guo, Li, Bo Sang, Jun Tu, and Yu Wang. "Cross-cryptocurrency return predictability." Journal of Economic Dynamics and Control 163 (2024): 104863.'
+citation: 'Guo, Li, Bo Sang, Jun Tu, and Yu Wang. "Cross-cryptocurrency return predictability." Journal of Economic Dynamics and Control 163 (2024): 104863.'
 ---
 
