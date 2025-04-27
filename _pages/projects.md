@@ -9,10 +9,10 @@ redirect_from:
 
 ## Honors & Grants
 
-National Natural Science Foundation of China (NSFC) Young Scientists Fund (Principal Investigator)
+*National Natural Science Foundation of China (NSFC) Young Scientists Fund (Principal Investigator)
 国家自然科学基金青年科学基金项目，新闻网络、注意力溢出和收益率可预测性研究（主持）
 
-National Natural Science Foundation of China (NSFC) General Program (Participant)
+*National Natural Science Foundation of China (NSFC) General Program (Participant)
 国家自然科学基金面上项目，时变高维因子模型估计、检验与推断: 基于频域分析视角（参与）
 
 National Social Science Fund of China (NSSFC) General Program (Participant)
@@ -27,7 +27,7 @@ Shanghai Pujiang Program (Principal Investigator)
 Shanghai Chenguang Program (Principal Investigator)
 上海市晨光计划，基于新闻媒体的行业网络与信息传输研究（主持）
 
-2019 Hillcrest Behavioral Finance Award (Honorable Mention)
+*2019 Hillcrest Behavioral Finance Award (Honorable Mention)
 
 WARSP Best Paper Award 2019
 
