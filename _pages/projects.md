@@ -9,7 +9,7 @@ redirect_from:
 
 ## Honors & Grants
 
-*National Natural Science Foundation of China (NSFC) Young Scientists Fund (Principal Investigator)
+* National Natural Science Foundation of China (NSFC) Young Scientists Fund (Principal Investigator)
 国家自然科学基金青年科学基金项目，新闻网络、注意力溢出和收益率可预测性研究（主持）
 
 *National Natural Science Foundation of China (NSFC) General Program (Participant)
