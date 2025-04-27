@@ -11,8 +11,7 @@ main:
   - title: "Research"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  
 
   - title: "Teaching"
     url: /teaching/    
@@ -31,3 +30,6 @@ main:
     
   - title: "Projects"
     url: /projects/
+
+  - title: "Media Coverage"
+    url: /media/  
