@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: "Li GUO Fudan"
 author_profile: true
 redirect_from: 
   - /about/
