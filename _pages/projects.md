@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Honors"
 author_profile: true
 redirect_from: 
   - /md/
@@ -42,8 +42,6 @@ The Semi-finalist, the Financial Management Association 2018 Best Paper Award
 26th Securities and Financial Markets, the Research Paper Award
 
 Best Young Scholar Paper Award in 2017 Frontiers of Business Research in China International Symposium
-
-2nd Class National Athlete of Table Tennis, China
 
 
 
