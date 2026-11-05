@@ -28,7 +28,6 @@
 
     <h2 class="archive__item-title" itemprop="headline">
   {% if post.collection == 'publications' %}
-    #{{ title }}
       {{ title }}{% if post.coauthors %} <span style="font-weight: normal;">(with {{ post.coauthors | escape }})</span>{% endif %}
   {% elsif post.link %}
     <a href="{{ post.link }}">{{ title }}</a>
