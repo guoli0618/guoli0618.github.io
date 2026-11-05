@@ -3,10 +3,11 @@ title: "Joint News, Attention Spillover, and Stock Returns"
 collection: publications
 category: papers
 permalink: /publication/paper10a_rfs
-date: accepted
+# date: accepted
+status: Accepted
 venue: 'Review of Financial Studies'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2927561'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Guo, Li, Lin Peng, Yubao Tao, and Jun Tu. "Joint News, Attention Spillover, and Stock Returns." Review of Financial Studies, forthcoming.'
+citation: 'Guo, Li, Lin Peng, Yubao Tao, and Jun Tu. "Joint News, Attention Spillover, and Stock Returns." Review of Financial Studies. Accepted.'
 ---
