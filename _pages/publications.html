@@ -11,7 +11,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+{% assign accepted_publications = site.publications | where: "status", "Accepted" %}
 
+{% assign other_publications = site.publications | where_exp: "item", "item.status != 'Accepted'" | sort: "date" | reverse %}
+
+{% assign sorted_publications = accepted_publications | concat: other_publications %}
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
