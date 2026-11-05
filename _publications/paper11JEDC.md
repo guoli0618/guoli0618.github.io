@@ -2,7 +2,7 @@
 title: "Media Network and Excess Return Comovement"
 collection: publications
 category: papers
-permalink: /publication/paper10JEDC
+permalink: /publication/paper11JEDC
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2021-10-01
 venue: 'Journal of Economic Dynamics and Control'
