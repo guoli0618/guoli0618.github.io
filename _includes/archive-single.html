@@ -27,8 +27,8 @@
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <h3 itemprop="headline">
-        {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ title }}</a>{% else %}{{ title }}{% endif %}{% if post.coauthors %} <span style="font-weight: normal;">(with {{ post.coauthors | escape }})</span>{% endif %}
+      <h3 itemprop="headline">    
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">“{{ title }}”</a>{% else %}“{{ title }}”{% endif %}{% if post.coauthors %} <span style="font-weight: normal;">(with {{ post.coauthors | escape }})</span>{% endif %}
       </h3>
     {% else %}
       <h2 class="archive__item-title" itemprop="headline">
