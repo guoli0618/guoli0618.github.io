@@ -28,8 +28,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Honors & Grants"
-    url: /projects/
+  # - title: "Honors & Grants"
+  #  url: /projects/
 
-  - title: "Media Coverage"
-    url: /media/  
+  # - title: "Media Coverage"
+  #  url: /media/  
